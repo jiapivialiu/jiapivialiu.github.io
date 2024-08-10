@@ -4,12 +4,6 @@ position: PhD Candidate in Statistics
 affiliation: The University of British Columbia
 email: "jiaping.liu@stat.ubc.ca"
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
-
 # Links 
 google_scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8_hVLqHFVVDzOwgFpZPVra0-5Ot_zjoIAh4iSDcRoI743btxVZNkiYvdC_nzGdeGBY0vFq9mh7SvF-IN-ca5S4CIJ5Wu-AQlvp4iY&user=hbZmyugAAAAJ
 cv_link: 
@@ -18,9 +12,9 @@ linkedin: https://www.linkedin.com/in/jiaping9
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: assets/images/avatar.png
-favicon: assets/images/avatar.png
-favicon_dark: assets/images/avatar.png
+avatar: .assets/images/avatar.png
+favicon: .assets/images/avatar.png
+favicon_dark: .assets/images/avatar.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
