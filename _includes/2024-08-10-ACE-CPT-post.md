@@ -1,8 +1,7 @@
 # Posts
 
-## "Exciting News: I'm Now an ACE Certified Personal Trainer!"
-
 ---
+title: "Exciting News: I'm Now an ACE Certified Personal Trainer!"
 date: 2024-08-10
 ---
 
