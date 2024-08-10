@@ -1,58 +1,39 @@
 # Site settings
-locale: "en-US"
 title: "Olivia 瓶子 / Home"
-avatar: "/assets/images/avatar.png"
-description: &description ""
-baseurl: "" # The subpath of your site, e.g., "/blog"
-url: "https://jiapivialiu.github.io" 
-repository: "jiapivialiu/jiapivialiu.github.io"
+position: PhD Candidate in Statistics
+affiliation: The University of British Columbia
+email: "jiaping.liu@stat.ubc.ca"
 
-# Author settings
-author:
-  name: "Jiaping(Olivia) Liu"
-  email: "jiaping.liu@stat.ubc.ca"
-  avatar: "profile.png"
-  bio: "Hi there! I'm a PhD candidate in Statistics at UBC since June 13, 2023."
-  location: "Vancouver, BC, CA"
-  github: "jiapivialiu"
-  googlescholar: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8_hVLqHFVVDzOwgFpZPVra0-5Ot_zjoIAh4iSDcRoI743btxVZNkiYvdC_nzGdeGBY0vFq9mh7SvF-IN-ca5S4CIJ5Wu-AQlvp4iY&user=hbZmyugAAAAJ"
-  linkedin: "https://www.linkedin.com/in/jiaping9"
-  orcid: "https://orcid.org/0009-0002-8584-5645"
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal light
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light-theme.yliu.me/
 
-# Build settings
-remote_theme: yaoyao-liu/minimal-light
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-avatar
+# Links 
+google_scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8_hVLqHFVVDzOwgFpZPVra0-5Ot_zjoIAh4iSDcRoI743btxVZNkiYvdC_nzGdeGBY0vFq9mh7SvF-IN-ca5S4CIJ5Wu-AQlvp4iY&user=hbZmyugAAAAJ
+cv_link: 
+github_link: https://jiapivialiu.github.io
+linkedin: https://www.linkedin.com/in/jiaping9
 
-# Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/images/avatar.png
+favicon: ./assets/images/avatar.png
+favicon_dark: ./assets/images/avatar.png
 
-# Exclusions
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
 
-# Collections
-collections:
-  posts:
-    output: true
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
 
-# Permalinks
-permalink: /:year/:month/:day/:title/
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
 
-timezone: America/Los_Angeles
-
-# Default settings for pages
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
