@@ -24,6 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-avatar
 
 # Markdown settings
 markdown: kramdown
