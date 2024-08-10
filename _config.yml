@@ -1,7 +1,8 @@
 # Site settings
 locale: "en-US"
 title: "Olivia 瓶子 / Home"
-description: &description "personal description"
+avatar: "/assets/images/avatar.png"
+description: &description ""
 baseurl: "" # The subpath of your site, e.g., "/blog"
 url: "https://jiapivialiu.github.io" 
 repository: "jiapivialiu/jiapivialiu.github.io"
