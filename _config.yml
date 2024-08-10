@@ -20,7 +20,7 @@ author:
   orcid: "https://orcid.org/0009-0002-8584-5645"
 
 # Build settings
-theme: minima # Change to your desired theme
+remote_theme: yaoyao-liu/minimal-light
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
