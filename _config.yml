@@ -1,5 +1,5 @@
 # Site settings
-title: "Olivia 瓶子 / Home"
+title: "Olivia 瓶子"
 position: PhD Candidate in Statistics
 affiliation: The University of British Columbia
 email: "jiaping.liu@stat.ubc.ca"
@@ -7,7 +7,7 @@ email: "jiaping.liu@stat.ubc.ca"
 # Links 
 google_scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8_hVLqHFVVDzOwgFpZPVra0-5Ot_zjoIAh4iSDcRoI743btxVZNkiYvdC_nzGdeGBY0vFq9mh7SvF-IN-ca5S4CIJ5Wu-AQlvp4iY&user=hbZmyugAAAAJ
 cv_link: 
-github_link: https://jiapivialiu.github.io
+github_link: https://github.com/jiapivialiu
 linkedin: https://www.linkedin.com/in/jiaping9
 
 # Images (e.g., your profile picture and your website's favicon) 
