@@ -2,7 +2,8 @@
 layout: post
 title: "Exciting News: I'm Now an ACE Certified Personal Trainer!"
 date: 2024-08-10
-permalink: https://credentials.acefitness.org/b6c1d419-6303-429b-be98-85151c8935f5#gs.cunybr
+permalink: /posts/2024-08-10
+external_url: https://credentials.acefitness.org/b6c1d419-6303-429b-be98-85151c8935f5#gs.cunybr
 categories: Fitness
 tags:
   - CertifiedPersonalTrainer
