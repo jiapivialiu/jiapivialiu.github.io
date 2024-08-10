@@ -12,9 +12,9 @@ linkedin: https://www.linkedin.com/in/jiaping9
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: .assets/images/avatar.png
-favicon: .assets/images/avatar.png
-favicon_dark: .assets/images/avatar.png
+avatar: assets/avatar.png
+favicon: assets/avatar.png
+favicon_dark: assets/avatar.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
