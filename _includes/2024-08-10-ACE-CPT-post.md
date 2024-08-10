@@ -1,18 +1,12 @@
+# Posts
+
+## "Exciting News: I'm Now an ACE Certified Personal Trainer!"
+
 ---
-layout: post
-title: "Exciting News: I'm Now an ACE Certified Personal Trainer!"
 date: 2024-08-10
-permalink: /posts/2024-08-10
-external_url: https://credentials.acefitness.org/b6c1d419-6303-429b-be98-85151c8935f5#gs.cunybr
-categories: Fitness
-tags:
-  - CertifiedPersonalTrainer
-  - ACE
-  - FitnessJourney
-  - NewBeginnings
 ---
 
-🎉 I’m thrilled to share that I’ve officially passed the ACE CPT exam on August 08, 2024 and am now a certified personal trainer! 🏋️‍♂️💪
+🎉 I’m thrilled to share that I’ve officially passed the ACE CPT exam on August 08, 2024 and am now a certified personal trainer! Check out my certificate [here](https://credentials.acefitness.org/b6c1d419-6303-429b-be98-85151c8935f5#gs.cunybr)!🏋️‍♂️💪
 
 This journey has been filled with hard work, dedication, and countless hours of study. I’m incredibly grateful for all the support and encouragement I’ve received from friends, family, and mentors along the way.
 
