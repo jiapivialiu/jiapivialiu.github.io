@@ -1,7 +1,7 @@
-# Posts
+## Posts
 
 
-## Exciting News: I'm Now an ACE Certified Personal Trainer!
+### Exciting News: I'm Now an ACE Certified Personal Trainer!
 
 **2024-08-10**
 
