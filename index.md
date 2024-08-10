@@ -9,8 +9,10 @@ I'm currently a PhD candidate in Statistics working with [Dr. Daniel J. McDonald
 ## Research Interests
 
 - **Computational statistics**
+- **Nonparamatric regression**
 - **Convex Optimization** 
 
-## News
+
+{% include_relative _includes/posts.md %} 
 
 {% include_relative _includes/posts.md %} 
