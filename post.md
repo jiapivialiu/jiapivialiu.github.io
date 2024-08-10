@@ -1,3 +1,3 @@
 layout: page
 title: "Hello!"
-permalink: /post
+permalink: /about/post1
