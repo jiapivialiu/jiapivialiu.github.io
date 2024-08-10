@@ -13,6 +13,6 @@ I'm currently a PhD candidate in Statistics working with [Dr. Daniel J. McDonald
 - **Convex Optimization** 
 
 
-{% include_relative _includes/posts.md %} 
+{% include_relative _includes/publications.md %} 
 
 {% include_relative _includes/posts.md %} 
