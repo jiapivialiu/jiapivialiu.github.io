@@ -14,4 +14,3 @@ I'm currently a PhD candidate in Statistics working with [Dr. Daniel J. McDonald
 - **Computational statistics**
 - **Nonparamatric regression**
 - **Convex Optimization** 
-- Proximal Algorithms

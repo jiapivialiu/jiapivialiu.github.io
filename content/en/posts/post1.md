@@ -3,7 +3,6 @@ title: "I'm Now an ACE Certified Personal Trainer!"
 date: 2024-08-10
 layout: "posts"
 url: "/posts/post1/"
-comments: true
 ---
 
 🎉 I’m thrilled to share that I’ve officially passed the ACE CPT exam on August 08, 2024 and am now a certified personal trainer! Check out my certificate [here](https://credentials.acefitness.org/b6c1d419-6303-429b-be98-85151c8935f5#gs.cunybr)!🏋️‍♂️💪
