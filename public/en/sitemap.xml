@@ -11,13 +11,13 @@
     <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/portfolio/project_TF/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/post1/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/portfolio/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/project_TF/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/project_RL/</loc>
