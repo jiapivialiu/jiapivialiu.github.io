@@ -4,129 +4,29 @@
   <url>
     <loc>http://localhost:1313/posts/post2/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/posts/post2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/post2/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/"
-                />
   </url><url>
     <loc>http://localhost:1313/posts/post1/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/posts/post1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/post1/"
-                />
   </url><url>
-    <loc>http://localhost:1313/portfolios/portfolio1/</loc>
+    <loc>http://localhost:1313/en/portfolio/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/portfolios/portfolio1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/portfolios/portfolio1/"
-                />
   </url><url>
-    <loc>http://localhost:1313/en/portfolios/</loc>
+    <loc>http://localhost:1313/portfolio/project_TF/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/portfolios/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/portfolios/"
-                />
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/publication/"
-                />
+    <loc>http://localhost:1313/portfolio/project_RL/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/about/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
   </url>
 </urlset>

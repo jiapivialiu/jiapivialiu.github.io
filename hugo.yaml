@@ -18,10 +18,8 @@ defaultContentLanguageInSubdir: true
 languages:
   en:
     languageName: "English"
-    contentDir: content/English
-  zh:
-    languageName: "中文"
-    contentDir: content/Chinese
+    contentDir: "content/en"
+    weight: 1
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -68,32 +66,27 @@ params:
   profileMode:
     enabled: true
     title: "Welcome to Olivia's Site!" # optional default will be site title
-    subtitle: "Journey to break through..."
-    imageUrl: https://raw.githubusercontent.com/jiapivialiu/jiapivialiu.github.io/hugo/papermod/assets/avatar.png
-    imageTitle: "<title of image as alt>" # optional
+    subtitle: "Journey to breakthrough"
+    imageUrl: "https://raw.githubusercontent.com/jiapivialiu/jiapivialiu.github.io/hugo/papermod/assets/avatar.png"
+    #imageTitle: "<>" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
-    socialIcons:
-      - name: github
-        url: "https://www.github.com/jiapivialiu"
-      - name: linkedin
-        url: "https://www.linkedin.com/in/jiaping9"
-      - name: googlescholar
-        url: "https://scholar.google.com/citations?hl=en&view_op=list_works &gmla=AC6lMd8_hVLqHFVVDzOwgFpZPVra0-5Ot_zjoIAh4iSDcRoI743btxVZNkiYvdC_nzGdeGBY0vFq9mh7SvF-IN-ca5S4CIJ5Wu-AQlvp4iY  &user=hbZmyugAAAAJ"
-      - name: email
-        url: "mailto:jiaping.liu@stat.ubc.ca"
-      - name: spotify
-        url: "https://open.spotify.com/track/70O6BRMNwjXyeixOp4LpD2"
-      - name: wechat
-        url: /assets/
-      - name: xiaohongshu
-        url: "https://www.xiaohongshu.com/user/profile/58f37fb55e87e71574aa6907?xhsshare=CopyLink&appuid=58f37fb55e87e71574aa6907 &apptime=1728113196"
 
-  #socialIcons: # optional
-  #  - name: "<platform>"
-  #    url: "<link>"
-  #  - name: "<platform 2>"
-  #    url: "<link2>"
+  socialIcons:
+    - name: github
+      url: "https://www.github.com/jiapivialiu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jiaping9"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8_hVLqHFVVDzOwgFpZPVra0-5Ot_zjoIAh4iSDcRoI743btxVZNkiYvdC_nzGdeGBY0vFq9mh7SvF-IN-ca5S4CIJ5Wu-AQlvp4iY &user=hbZmyugAAAAJ"
+    - name: email
+      url: "mailto:jiaping.liu@stat.ubc.ca"
+    - name: spotify
+      url: "https://open.spotify.com/track/70O6BRMNwjXyeixOp4LpD2"
+    - name: wechat
+      url: "https://raw.githubusercontent.com/jiapivialiu/jiapivialiu.github.io/hugo/papermod/assets/wechat.png"
+    - name: xiaohongshu
+      url: "https://www.xiaohongshu.com/user/profile/58f37fb55e87e71574aa6907?xhsshare=CopyLink&appuid=58f37fb55e87e71574aa6907&apptime=1728113196"
 
   # home-info mode
   #homeInfoParams:
@@ -131,6 +124,8 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 
+disqusShortname: "olivialiu"
+
 menu:
   main:
     - identifier: About
@@ -139,16 +134,12 @@ menu:
       weight: 10
     - identifier: Portfolio
       name: Portfolio
-      url: /portfolios/
+      url: /portfolio/
       weight: 20
-    - identifier: Publication
-      name: Publication
-      url: /publication/
-      weight: 20
-    - identifier: Post
-      name: Post
+    - identifier: Posts
+      name: Posts
       url: /posts/
-      weight:
+      weight: 20
 
 pygmentsUseClasses: true
 markup:
