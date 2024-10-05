@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/post2/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/project_TF/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/post1/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/portfolio/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/project_RL/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/toolkit/</loc>
+  </url>
+</urlset>
