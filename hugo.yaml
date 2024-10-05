@@ -19,7 +19,6 @@ languages:
   en:
     languageName: "English"
     contentDir: "content/en"
-    weight: 1
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -132,14 +131,21 @@ menu:
       name: About
       url: /about/
       weight: 10
+
+    - identifier: Toolkit
+      name: Toolkit
+      url: /toolkit/
+      weight: 10
+
     - identifier: Portfolio
       name: Portfolio
       url: /portfolio/
-      weight: 20
+      weight: 10
+
     - identifier: Posts
       name: Posts
       url: /posts/
-      weight: 20
+      weight: 10
 
 pygmentsUseClasses: true
 markup:

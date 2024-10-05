@@ -1,5 +1,5 @@
 ---
-title: "Hello!"
+title: "Hello! 🥥"
 layout: homepage
 url: "/about/"
 comments: true

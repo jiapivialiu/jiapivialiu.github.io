@@ -28,5 +28,7 @@
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/toolkit/</loc>
   </url>
 </urlset>
