@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Olivia L.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Olivia L.</description>
+    <image>
+      <title>Olivia L.</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first paper is officially published!</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>I&#39;m Now an ACE Certified Personal Trainer!</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>rtestim: Time-varying reproduction number estimation with trend filtering</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Liu J, Cai Z, Gustafson P, McDonald DJ (2024) rtestim: Time-varying reproduction number estimation with trend filtering. PLOS Computational Biology 20(8): e1012324. &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1012324&#34;&gt;https://doi.org/10.1371/journal.pcbi.1012324&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Machine Learning on Record Linkage</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello!</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m currently a PhD candidate in Statistics working with &lt;a href=&#34;https://dajmcdon.github.io/&#34;&gt;Dr. Daniel J. McDonald&lt;/a&gt; at the University of British Columbia. My research areas are computational statistics, nonparametric regression, and convex optimization. I started doing the PhD program in September, 2020 and became a PhD candidate on June 13, 2023. Before this, I did my master in statistics with &lt;a href=&#34;https://mysite.science.uottawa.ca/mfrase8/&#34;&gt;Dr. Maia Fraser&lt;/a&gt; at the University of Ottawa during 2018&amp;ndash;2020. I did my undergraduate in Economic Statistics at Zhejiang University of Finance and Economics, Zhejiang, China between 2014 and 2018.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
