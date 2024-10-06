@@ -1,0 +1,158 @@
+baseURL: "https://jiapivialiu.github.io"
+title: Olivia L.
+paginate: 5
+theme: hugo-PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+languages:
+  en:
+    languageName: "English"
+    contentDir: "content"
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Olivia's Site
+  description: "Hello!"
+  keywords: [Post, Portfolio, PaperMod]
+  author: Olivia L.
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "瓶子 Olivia's Site"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: "Welcome to Olivia's Site!" # optional default will be site title
+    subtitle: "Journey to breakthrough"
+    imageUrl: "https://raw.githubusercontent.com/jiapivialiu/jiapivialiu.github.io/papermod-new/assets/avatar.png"
+    #imageTitle: "<>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
+  socialIcons:
+    - name: github
+      url: "https://www.github.com/jiapivialiu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jiaping9"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AC6lMd8_hVLqHFVVDzOwgFpZPVra0-5Ot_zjoIAh4iSDcRoI743btxVZNkiYvdC_nzGdeGBY0vFq9mh7SvF-IN-ca5S4CIJ5Wu-AQlvp4iY &user=hbZmyugAAAAJ"
+    - name: email
+      url: "mailto:jiaping.liu@stat.ubc.ca"
+    - name: spotify
+      url: "https://open.spotify.com/track/70O6BRMNwjXyeixOp4LpD2"
+    - name: wechat
+      url: "https://raw.githubusercontent.com/jiapivialiu/jiapivialiu.github.io/papermod-new/assets/wechat.png"
+    - name: xiaohongshu
+      url: "https://www.xiaohongshu.com/user/profile/58f37fb55e87e71574aa6907?xhsshare=CopyLink&appuid=58f37fb55e87e71574aa6907&apptime=1728113196"
+
+  # home-info mode
+  #homeInfoParams:
+  #  Title: "Hi there 👋"
+  #  Content: >
+  #    Welcome to my site.
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/jiapivialiu/jiapivialiu.github.io/"
+    #Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+disqusShortname: "olivialiu"
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
+
+    - identifier: Toolkit
+      name: Toolkit
+      url: /toolkit/
+      weight: 10
+
+    - identifier: Portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 10
+
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
