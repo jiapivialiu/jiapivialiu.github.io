@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Olivia L.</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://jiapivialiu.github.io/en/</link>
     <description>Recent content on Olivia L.</description>
     <image>
       <title>Olivia L.</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jiapivialiu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jiapivialiu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jiapivialiu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first paper is officially published!</title>
-      <link>http://localhost:1313/posts/post2/</link>
+      <link>https://jiapivialiu.github.io/posts/post2/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post2/</guid>
+      <guid>https://jiapivialiu.github.io/posts/post2/</guid>
       <description>&lt;p&gt;👏🎊 I&amp;rsquo;m thrilled to announce that my first research paper &lt;strong&gt;&amp;ldquo;rtestim: Time-varying reproduction number estimation using trend filtering&amp;rdquo;&lt;/strong&gt; has just been officially released! 📊&lt;/p&gt;
 &lt;p&gt;🔍 This work proposed a method, which is implemented in the R package &lt;a href=&#34;https://dajmcdon.github.io/rtestim/&#34;&gt;&lt;em&gt;rtestim&lt;/em&gt;&lt;/a&gt;, for accurate and computationally efficient estimation of the instantaneous reproduction number, a crucial metric for understanding the spread of infectious diseases.&lt;/p&gt;
 &lt;p&gt;You can read the full paper &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012324&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -25,40 +25,40 @@
     </item>
     <item>
       <title>Application of nonparametric regression for Infectious diseases</title>
-      <link>http://localhost:1313/portfolio/project_TF/</link>
+      <link>https://jiapivialiu.github.io/portfolio/project_TF/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/project_TF/</guid>
+      <guid>https://jiapivialiu.github.io/portfolio/project_TF/</guid>
       <description>Publication on PLOS Computational Biology</description>
     </item>
     <item>
       <title>I&#39;m Now an ACE Certified Personal Trainer!</title>
-      <link>http://localhost:1313/posts/post1/</link>
+      <link>https://jiapivialiu.github.io/posts/post1/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post1/</guid>
+      <guid>https://jiapivialiu.github.io/posts/post1/</guid>
       <description>&lt;p&gt;🎉 I’m thrilled to share that I’ve officially passed the ACE CPT exam on August 08, 2024 and am now a certified personal trainer! Check out my certificate &lt;a href=&#34;https://credentials.acefitness.org/b6c1d419-6303-429b-be98-85151c8935f5#gs.cunybr&#34;&gt;here&lt;/a&gt;!🏋️‍♂️💪&lt;/p&gt;
 &lt;p&gt;This journey has been filled with hard work, dedication, and countless hours of study. I’m incredibly grateful for all the support and encouragement I’ve received from friends, family, and mentors along the way.&lt;/p&gt;
 &lt;p&gt;Becoming a certified personal trainer is a dream come true, and I’m excited to start this new chapter. I’m passionate about helping others achieve their fitness goals and live healthier, happier lives. Whether you&amp;rsquo;re just starting out or looking to take your fitness to the next level, I’m here to support you every step of the way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Machine Learning in Record Linkage</title>
-      <link>http://localhost:1313/portfolio/project_RL/</link>
+      <link>https://jiapivialiu.github.io/portfolio/project_RL/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/project_RL/</guid>
+      <guid>https://jiapivialiu.github.io/portfolio/project_RL/</guid>
       <description>Project with Methodology Department, Statistics Canada</description>
     </item>
     <item>
       <title>Hello! 🥥</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://jiapivialiu.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://jiapivialiu.github.io/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m currently a PhD candidate in Statistics working with &lt;a href=&#34;https://dajmcdon.github.io/&#34;&gt;Dr. Daniel J. McDonald&lt;/a&gt; at the University of British Columbia. My research areas are computational statistics, nonparametric regression, and convex optimization. I started doing the PhD program in September, 2020 and became a PhD candidate on June 13, 2023. Before this, I did my master in statistics with &lt;a href=&#34;https://mysite.science.uottawa.ca/mfrase8/&#34;&gt;Dr. Maia Fraser&lt;/a&gt; at the University of Ottawa during 2018&amp;ndash;2020. I did my undergraduate in Economic Statistics at Zhejiang University of Finance and Economics, Zhejiang, China between 2014 and 2018.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Toolkit 🧰</title>
-      <link>http://localhost:1313/toolkit/</link>
+      <link>https://jiapivialiu.github.io/toolkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/toolkit/</guid>
+      <guid>https://jiapivialiu.github.io/toolkit/</guid>
       <description>&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;R package for time-varying reproduction number estimation for infectious disease &lt;a href=&#34;https://dajmcdon.github.io/rtestim/&#34;&gt;rtestim&lt;/a&gt; with core algorithms developed in C++.&lt;/li&gt;
