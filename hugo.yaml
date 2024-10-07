@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
   en:
@@ -131,21 +131,30 @@ menu:
       name: About
       url: /about/
       weight: 10
-
-    - identifier: Toolkit
-      name: Toolkit
-      url: /toolkit/
-      weight: 10
-
     - identifier: Portfolio
       name: Portfolio
       url: /portfolio/
-      weight: 10
-
+      weight: 20
+    - identifier: Work
+      name: Work
+      url: /work/
+      weight: 30
+    - identifier: Toolkit
+      name: Toolkit
+      url: /toolkit/
+      weight: 40
+    - identifier: Talks
+      name: Talks
+      url: /talks/
+      weight: 50
     - identifier: Posts
       name: Posts
       url: /posts/
-      weight: 10
+      weight: 60
+    - identifier: Awards
+      name: Awards
+      url: /awards/
+      weight: 70
 
 pygmentsUseClasses: true
 markup:

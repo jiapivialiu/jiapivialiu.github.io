@@ -3,9 +3,32 @@ title: "Toolkit 🧰"
 url: "/toolkit/"
 ---
 
-### Software
+### Languages and Related
 
-- R package for time-varying reproduction number estimation for infectious disease [rtestim](https://dajmcdon.github.io/rtestim/) with core algorithms developed in C++.
+- Python, R, C++
+
+- Linux/Unix, Git
+
+- SQL, LaTeX, Markdown
+
+- RMarkdown, Quarto
+
+### Libraries
+
+- Python libraries: *scikit-learn, keras, pandas, numpy, tensorflow, statsmodels, cython, etc.*
+
+- R libraries: *tidyverse (ggplot2, tidyr, recipes, tinymodels, etc.), caret, data.table, Shiny, batchtools, Rcpp, RcppArmadillo, cpp11, etc.* 
+  
+- C++ libraries: *Eigen, Armadillo, etc.*
+
+### Integrated development environments
+
+- VS code, R Studio.
+
+### Method-related topics
+
+- Statistics and Machine Learning: nonparametric regression(LASSO, ridge, trend filtering, etc.), support vector machines, XGBoost, random forests, etc.
+- Deep Learning: recurrent neural networks (RNNs), convolutional neural networks (CNNs), generative adversarial networks (GANs), etc.
 
 ### Topic-specific Certificates
 

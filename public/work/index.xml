@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Works on Olivia L.</title>
+    <link>https://jiapivialiu.github.io/work/</link>
+    <description>Recent content in Works on Olivia L.</description>
+    <image>
+      <title>Olivia L.</title>
+      <url>https://jiapivialiu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jiapivialiu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jiapivialiu.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching Assistant</title>
+      <link>https://jiapivialiu.github.io/work/job_TA/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiapivialiu.github.io/work/job_TA/</guid>
+      <description>On-campus part-time job, Vancouver &amp;amp; Ottawa, Canada</description>
+    </item>
+    <item>
+      <title>Graduate Student Seminars Organizer</title>
+      <link>https://jiapivialiu.github.io/work/job_volunteer2/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jiapivialiu.github.io/work/job_volunteer2/</guid>
+      <description>Volunteer at SGSA, UBC</description>
+    </item>
+    <item>
+      <title>Junior Statistical Consultant at ASDa group at UBC</title>
+      <link>https://jiapivialiu.github.io/work/job_ASDa/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jiapivialiu.github.io/work/job_ASDa/</guid>
+      <description>On-campus part-time job, Vancouver, Canada</description>
+    </item>
+    <item>
+      <title>English to Chinese translator at BigDataDigest</title>
+      <link>https://jiapivialiu.github.io/work/job_volunteer/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jiapivialiu.github.io/work/job_volunteer/</guid>
+      <description>Remote volunteer</description>
+    </item>
+    <item>
+      <title>Student Researcher at Methodology Department, Statistics Canada</title>
+      <link>https://jiapivialiu.github.io/work/job_STATCAN/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jiapivialiu.github.io/work/job_STATCAN/</guid>
+      <description>Onsite full-time researcher at Ottawa, Canada</description>
+    </item>
+    <item>
+      <title>Intern at BOSCH, China</title>
+      <link>https://jiapivialiu.github.io/work/job_BOSCH/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jiapivialiu.github.io/work/job_BOSCH/</guid>
+      <description>Internship, Hangzhou, China</description>
+    </item>
+  </channel>
+</rss>
